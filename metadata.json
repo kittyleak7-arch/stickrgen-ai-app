@@ -1,0 +1,5 @@
+{
+  "name": "StickrGen AI",
+  "description": "Create unique, high-quality die-cut stickers instantly using Gemini AI. Describe your idea, pick a style, and generate custom stickers ready for your collection.",
+  "requestFramePermissions": []
+}
